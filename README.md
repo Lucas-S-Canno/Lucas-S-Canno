@@ -1,4 +1,4 @@
-## Olá, Sou o Lucas 😃
+## Hi, I`m Lucas, nice to meet! 😃
 
 
 - 🔭 I’m currently working on Claro
